@@ -107,7 +107,7 @@ class SketchPolicyNode : public SearchPolicyNode {
   /*! \brief The rules to mutate states in the evolutionary search. */
   std::vector<std::shared_ptr<PopulationMutationRule>> mutation_rules;
   /*! \brief Random generator. */
-  std::mt19937 rand_gen;
+  std::mt19937 rand_gen {114514};
   /*! \brief Memorize split space for Split. */
   SplitFactorizationMemo split_memo;
 

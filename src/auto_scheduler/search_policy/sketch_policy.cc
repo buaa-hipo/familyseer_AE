@@ -247,7 +247,8 @@ std::pair<Array<MeasureInput>, Array<MeasureResult>> SketchPolicyNode::ContinueS
   Array<MeasureInput> inputs;
   Array<MeasureResult> results;
   int num_random = static_cast<int>(GetDoubleParam(params, "eps_greedy") * num_measure);
-
+  // use a fix random
+  num_random = 3;
   // Search one round to get promising states
   PrintTitle("Search", verbose);
   best_states = SearchOneRound(num_random * 3, &random_states);
@@ -389,10 +390,11 @@ Array<State> SketchPolicyNode::SampleInitPopulation(const Array<State>& sketches
 
   int fail_ct = 0;
   Array<State> out_states;
-  std::vector<std::mt19937> rand_gens;
+  std::vector<std::mt19937> rand_gens {9};
   rand_gens.reserve(population);
   for (int i = 0; i < population; i++) {
     rand_gens.push_back(std::mt19937(rand_gen()));
+    //std::cout << "rg:" << rand_gens[i] << "\n";
   }
 
   std::unordered_set<std::string> explored_state_strs;

@@ -214,7 +214,7 @@ class SketchPolicy(SearchPolicy):
             task,
             program_cost_model,
             params,
-            seed or random.randint(1, 1 << 30),
+            seed or 114514,#random.randint(1, 1 << 30),
             verbose,
             init_search_callbacks,
         )

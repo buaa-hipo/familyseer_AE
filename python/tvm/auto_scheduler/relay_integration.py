@@ -131,7 +131,10 @@ def extract_tasks(
     # create search tasks
     tasks = []
     weights = []
+    func_i = 0
     for (func_name, wkl_key), weight in env.wkl_key_to_weight.items():
+        #print(func_i," : ",func_name)
+        func_i = func_i + 1
         tasks.append(
             SearchTask(
                 workload_key=wkl_key,
@@ -147,7 +150,7 @@ def extract_tasks(
                 ),
                 task_inputs_save_to_file=True,
                 desc=func_name,
-            )
+            )  
         )
         weights.append(weight)
 
