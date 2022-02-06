@@ -37,7 +37,9 @@ tuner.tune(tune_option,search_policy="sketch.xgb.family_op")
 
 The `tuner` loads the `tune_option` into the `tune` function. There are several parameters in the `tune` function (Refer to class [Taskscheduler](https://tvm.apache.org/docs/reference/api/python/auto_scheduler.html?highlight=taskscheduler#tvm.auto_scheduler.TaskScheduler)). Users can enable our method by changing the `search_policy` parameter to `sketch.xgb.family_<family_algorithm>`. We currently provide two family algorithms as an option: `op` refers to classifying subgraphs based on the core operation, and `hash` refers to classifying subgraphs based on operation sequence. We recommend using `op` to achieve better performance.
 
-You can also go to `scripts/` and run
+# Example
+[guide-level-explanation]: #guide-level-explanation
+You can go to `scripts/` and run
 ```
 python3 tune_network_gpu.py --model mobilenetv2_0.5 --gpu_num 2 --tune
 ```
