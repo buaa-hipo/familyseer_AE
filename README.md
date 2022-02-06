@@ -42,7 +42,7 @@ You can also go to `scripts/` and run
 python3 tune_network_gpu.py --model mobilenetv2_0.5 --gpu_num 2 --tune
 ```
 you can change the model and the gpu number accordingly.
-# Reference-level explanation
+# Major Code modules
 [reference-level-explanation]: #reference-level-explanation
 
 Our search method consists of three steps:
