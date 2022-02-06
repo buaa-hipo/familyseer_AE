@@ -59,6 +59,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--model', type=str, default=None, help='a chosen model, like resnet18_v2', required=True)
 parser.add_argument('--batch_size', type=int, default=1)
 parser.add_argument("--tune", action='store_true')
+parser.add_argument('--mode', type=str, default="familyseer", help='choose the running mode:familyseer or ansor', required=False)
 parser.add_argument('--gpu_num', type=int, default=1)
 
 args = parser.parse_args()
@@ -741,8 +742,11 @@ def run_tuning(device_number):
         measure_callbacks=[auto_scheduler.RecordToFile(log_file)],
 
     )
-    tuner.tune(tune_option,search_policy="sketch.xgb.family_op")
-
+    if args.mode == "ansor":
+        tuner.tune(tune_option)
+    else:
+        tuner.tune(tune_option,search_policy="sketch.xgb.family_op")
+    
     for ctx in ctx_list:
         del ctx
     

@@ -109,6 +109,7 @@ def make_search_policies(
                     num_warmup_sample=len(tasks) * num_measures_per_round,
                     model_file=load_model_file,
                     adapative_training=adapative_training,
+                    gpu_acc=False,
                 )
                 if load_model_file and os.path.isfile(load_model_file):
                     logger.info("TaskScheduler: Load pretrained model...")
@@ -138,6 +139,7 @@ def make_search_policies(
                         num_warmup_sample=len(group) * num_measures_per_round,
                         model_file=load_model_file,
                         adapative_training=adapative_training,
+                        gpu_acc=True,
                     )
                     if load_model_file and os.path.isfile(load_model_file):
                         logger.info("TaskScheduler: Load pretrained model...")

@@ -110,6 +110,7 @@ class XGBModel(PythonBasedModel):
         seed=None,
         model_file=None,
         adapative_training=False,
+        gpu_acc=True,
 
     ):
         global xgb
@@ -124,23 +125,36 @@ class XGBModel(PythonBasedModel):
                 "Please install its python package first. "
                 "Help: (https://xgboost.readthedocs.io/en/latest/) "
             ) from None
-
-        self.xgb_params = {
-            "max_depth": 10,
-            "gamma": 0.001,
-            "min_child_weight": 0,
-            "eta": 0.2,
-            # todo(merrymercy): automatically decrease learning rate when the loss is too large
-            "gpu_id": 0,
-            "tree_method": "gpu_hist",
-            "predictor": "gpu_predictor",
-            "nthread": multiprocessing.cpu_count(),
-            #"n_gpus": 0,
-            #"nthread": multiprocessing.cpu_count() // 2,
-            "verbosity": 0,
-            "seed": seed or 43,
-            "disable_default_eval_metric": 1,
-        }
+        if gpu_acc:
+            self.xgb_params = {
+                "max_depth": 10,
+                "gamma": 0.001,
+                "min_child_weight": 0,
+                "eta": 0.2,
+                # todo(merrymercy): automatically decrease learning rate when the loss is too large
+                "gpu_id": 0,
+                "tree_method": "gpu_hist",
+                "predictor": "gpu_predictor",
+                "nthread": multiprocessing.cpu_count(),
+                #"n_gpus": 0,
+                #"nthread": multiprocessing.cpu_count() // 2,
+                "verbosity": 0,
+                "seed": seed or 43,
+                "disable_default_eval_metric": 1,
+            }
+        else:
+            self.xgb_params = {
+                "max_depth": 10,
+                "gamma": 0.001,
+                "min_child_weight": 0,
+                "eta": 0.2,
+                # todo(merrymercy): automatically decrease learning rate when the loss is too large
+                "n_gpus": 0,
+                "nthread": multiprocessing.cpu_count() // 2,
+                "verbosity": 0,
+                "seed": seed or 43,
+                "disable_default_eval_metric": 1,
+            }
         self.bst = None
         self.plan_size = 32
         self.num_warmup_sample = num_warmup_sample
