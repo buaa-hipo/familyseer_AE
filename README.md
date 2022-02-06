@@ -43,7 +43,7 @@ You can go to `scripts/` and run
 ```
 python3 tune_network_gpu.py --model mobilenetv2_0.5 --gpu_num 2 --tune
 ```
-you can change the model and the gpu number accordingly.
+you can change the model and the gpu number accordingly. More details on how to use this tuning script can be find out [here](https://github.com/noobotdj/tvm/tree/familyseer/scripts).
 # Major Code modules
 [reference-level-explanation]: #reference-level-explanation
 
