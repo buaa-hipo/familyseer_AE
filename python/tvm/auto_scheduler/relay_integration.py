@@ -54,7 +54,6 @@ def call_all_topi_funcs(mod, params, target):
     # Turn off AutoTVM config not found warnings
     old_autotvm_silent = autotvm.GLOBAL_SCOPE.silent
     autotvm.GLOBAL_SCOPE.silent = True
-
     with transform.PassContext(
         opt_level=3,
         config={
@@ -67,6 +66,7 @@ def call_all_topi_funcs(mod, params, target):
             opt_mod, _ = relay.optimize(mod, target, params)
             grc = graph_executor_codegen.GraphExecutorCodegen(None, target)
             grc.codegen(opt_mod["main"])
+            print(target)
         except tvm.TVMError:
             print(
                 "Get errors with GraphExecutorCodegen for task extraction. "
@@ -77,7 +77,7 @@ def call_all_topi_funcs(mod, params, target):
                 compiler.set_params(params)
             mod = tvm.IRModule.from_expr(mod) if isinstance(mod, relay.Function) else mod
             compiler.lower(mod, target)
-
+    print(mod)
     autotvm.GLOBAL_SCOPE.silent = old_autotvm_silent
 
 
@@ -116,7 +116,6 @@ def extract_tasks(
     env = TracingEnvironment(
         TracingMode.EXTRACT_TASK if include_simple_tasks else TracingMode.EXTRACT_COMPLEX_TASK_ONLY
     )
-
     dispatch_ctx = DispatchContext.current
     old_verbose = dispatch_ctx.verbose
     dispatch_ctx.verbose = 0
@@ -153,7 +152,6 @@ def extract_tasks(
             )  
         )
         weights.append(weight)
-
     return tasks, weights
 
 

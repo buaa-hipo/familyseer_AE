@@ -1,0 +1,10 @@
+xgboost==1.5.1
+mxnet
+gluonnlp
+decorator
+attrs
+cloudpickle
+pytest
+numpy==1.19
+tornado
+psutil

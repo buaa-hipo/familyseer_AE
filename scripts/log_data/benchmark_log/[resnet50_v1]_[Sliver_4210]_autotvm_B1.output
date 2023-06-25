@@ -1,0 +1,667 @@
+Extract tasks...
+
+[Task  1/20]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/800) | 0.00 s
+[Task  1/20]  Current/Best:   47.80/  55.33 GFLOPS | Progress: (28/800) | 9.64 s
+[Task  1/20]  Current/Best:  314.61/ 320.62 GFLOPS | Progress: (56/800) | 17.36 s
+[Task  1/20]  Current/Best:  154.21/ 320.62 GFLOPS | Progress: (84/800) | 25.20 s
+[Task  1/20]  Current/Best:   68.27/ 320.62 GFLOPS | Progress: (112/800) | 37.03 s
+[Task  1/20]  Current/Best:   46.93/ 320.62 GFLOPS | Progress: (140/800) | 54.66 s
+[Task  1/20]  Current/Best:  322.71/ 323.70 GFLOPS | Progress: (168/800) | 62.52 s
+[Task  1/20]  Current/Best:  194.27/ 451.14 GFLOPS | Progress: (196/800) | 70.22 s
+[Task  1/20]  Current/Best:  121.56/ 451.14 GFLOPS | Progress: (224/800) | 79.60 s
+[Task  1/20]  Current/Best:   89.27/ 451.14 GFLOPS | Progress: (252/800) | 96.45 s
+[Task  1/20]  Current/Best:  331.25/ 451.14 GFLOPS | Progress: (280/800) | 104.16 s
+[Task  1/20]  Current/Best:  250.87/ 540.70 GFLOPS | Progress: (308/800) | 111.98 s
+[Task  1/20]  Current/Best:  150.77/ 540.70 GFLOPS | Progress: (336/800) | 120.71 s
+[Task  1/20]  Current/Best:   84.52/ 540.70 GFLOPS | Progress: (364/800) | 138.42 s
+[Task  1/20]  Current/Best:  440.52/ 540.70 GFLOPS | Progress: (392/800) | 145.91 s
+[Task  1/20]  Current/Best:  302.68/ 540.70 GFLOPS | Progress: (420/800) | 153.47 s
+[Task  1/20]  Current/Best:  148.95/ 540.70 GFLOPS | Progress: (448/800) | 161.57 s
+[Task  1/20]  Current/Best:   56.82/ 540.70 GFLOPS | Progress: (476/800) | 179.05 s
+[Task  1/20]  Current/Best:   93.61/ 540.70 GFLOPS | Progress: (504/800) | 195.83 s
+[Task  1/20]  Current/Best:  371.06/ 540.70 GFLOPS | Progress: (532/800) | 203.45 s
+[Task  1/20]  Current/Best:  123.62/ 540.70 GFLOPS | Progress: (560/800) | 211.29 s
+[Task  1/20]  Current/Best:   72.77/ 540.70 GFLOPS | Progress: (588/800) | 222.41 s
+[Task  1/20]  Current/Best:   37.99/ 540.70 GFLOPS | Progress: (616/800) | 240.38 s
+[Task  1/20]  Current/Best:  266.96/ 540.70 GFLOPS | Progress: (644/800) | 248.21 s
+[Task  1/20]  Current/Best:   47.82/ 540.70 GFLOPS | Progress: (672/800) | 255.86 s
+[Task  1/20]  Current/Best:   63.53/ 540.70 GFLOPS | Progress: (700/800) | 265.26 s
+[Task  1/20]  Current/Best:   53.29/ 540.70 GFLOPS | Progress: (728/800) | 283.12 s
+[Task  1/20]  Current/Best:  358.65/ 540.70 GFLOPS | Progress: (756/800) | 290.77 s
+[Task  1/20]  Current/Best:  121.27/ 540.70 GFLOPS | Progress: (784/800) | 298.42 s
+[Task  1/20]  Current/Best:  142.25/ 540.70 GFLOPS | Progress: (800/800) | 302.99 s Done.
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 23.12 ms (0.01 ms)
+
+[Task  2/20]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/800) | 0.00 s
+[Task  2/20]  Current/Best:   53.10/  53.18 GFLOPS | Progress: (28/800) | 14.44 s
+[Task  2/20]  Current/Best:  155.78/ 183.80 GFLOPS | Progress: (56/800) | 25.58 s
+[Task  2/20]  Current/Best:  139.25/ 183.80 GFLOPS | Progress: (84/800) | 36.78 s
+[Task  2/20]  Current/Best:   46.11/ 183.80 GFLOPS | Progress: (112/800) | 49.57 s
+[Task  2/20]  Current/Best:  176.30/ 183.80 GFLOPS | Progress: (140/800) | 61.22 s
+[Task  2/20]  Current/Best:  216.97/ 283.77 GFLOPS | Progress: (168/800) | 72.22 s
+[Task  2/20]  Current/Best:   71.71/ 283.77 GFLOPS | Progress: (196/800) | 85.39 s
+[Task  2/20]  Current/Best:  174.47/ 283.77 GFLOPS | Progress: (224/800) | 97.29 s
+[Task  2/20]  Current/Best:  316.06/ 432.91 GFLOPS | Progress: (252/800) | 108.24 s
+[Task  2/20]  Current/Best:  211.46/ 432.91 GFLOPS | Progress: (280/800) | 119.77 s
+[Task  2/20]  Current/Best:   86.81/ 432.91 GFLOPS | Progress: (308/800) | 132.90 s
+[Task  2/20]  Current/Best:  144.38/ 510.03 GFLOPS | Progress: (336/800) | 143.87 s
+[Task  2/20]  Current/Best:  236.22/ 544.59 GFLOPS | Progress: (364/800) | 154.78 s
+[Task  2/20]  Current/Best:   93.62/ 544.59 GFLOPS | Progress: (392/800) | 167.79 s
+[Task  2/20]  Current/Best:   26.79/ 544.59 GFLOPS | Progress: (420/800) | 183.57 s
+[Task  2/20]  Current/Best:  173.89/ 544.59 GFLOPS | Progress: (448/800) | 194.97 s
+[Task  2/20]  Current/Best:  160.78/ 544.59 GFLOPS | Progress: (476/800) | 206.10 s
+[Task  2/20]  Current/Best:   21.70/ 544.59 GFLOPS | Progress: (504/800) | 219.43 s
+[Task  2/20]  Current/Best:  174.33/ 544.59 GFLOPS | Progress: (532/800) | 231.62 s
+[Task  2/20]  Current/Best:  248.46/ 544.59 GFLOPS | Progress: (560/800) | 242.78 s
+[Task  2/20]  Current/Best:  145.19/ 544.59 GFLOPS | Progress: (588/800) | 254.24 s
+[Task  2/20]  Current/Best:   91.30/ 544.59 GFLOPS | Progress: (616/800) | 267.15 s
+[Task  2/20]  Current/Best:  385.40/ 544.59 GFLOPS | Progress: (644/800) | 278.11 s
+[Task  2/20]  Current/Best:  200.19/ 544.59 GFLOPS | Progress: (672/800) | 289.23 s
+[Task  2/20]  Current/Best:   57.35/ 544.59 GFLOPS | Progress: (700/800) | 302.20 s
+[Task  2/20]  Current/Best:  278.68/ 544.59 GFLOPS | Progress: (728/800) | 313.23 s
+[Task  2/20]  Current/Best:  273.55/ 544.59 GFLOPS | Progress: (756/800) | 324.04 s
+[Task  2/20]  Current/Best:  141.64/ 544.59 GFLOPS | Progress: (784/800) | 335.57 s
+[Task  2/20]  Current/Best:   81.06/ 544.59 GFLOPS | Progress: (800/800) | 343.44 s Done.
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 23.02 ms (0.00 ms)
+
+[Task  3/20]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/800) | 0.00 s
+[Task  3/20]  Current/Best:   53.19/  53.19 GFLOPS | Progress: (28/800) | 11.54 s
+[Task  3/20]  Current/Best:  187.89/ 187.89 GFLOPS | Progress: (56/800) | 21.09 s
+[Task  3/20]  Current/Best:  159.35/ 199.06 GFLOPS | Progress: (84/800) | 30.35 s
+[Task  3/20]  Current/Best:   41.70/ 199.06 GFLOPS | Progress: (112/800) | 40.98 s
+[Task  3/20]  Current/Best:   46.22/ 199.06 GFLOPS | Progress: (140/800) | 54.06 s
+[Task  3/20]  Current/Best:  175.66/ 199.06 GFLOPS | Progress: (168/800) | 63.54 s
+[Task  3/20]  Current/Best:  201.78/ 296.64 GFLOPS | Progress: (196/800) | 72.89 s
+[Task  3/20]  Current/Best:  142.03/ 296.64 GFLOPS | Progress: (224/800) | 82.82 s
+[Task  3/20]  Current/Best:   45.77/ 296.64 GFLOPS | Progress: (252/800) | 93.99 s
+[Task  3/20]  Current/Best:   94.13/ 296.64 GFLOPS | Progress: (280/800) | 103.50 s
+[Task  3/20]  Current/Best:  340.03/ 467.65 GFLOPS | Progress: (308/800) | 112.63 s
+[Task  3/20]  Current/Best:  195.71/ 467.65 GFLOPS | Progress: (336/800) | 122.43 s
+[Task  3/20]  Current/Best:   65.68/ 467.65 GFLOPS | Progress: (364/800) | 134.07 s
+[Task  3/20]  Current/Best:  246.45/ 467.65 GFLOPS | Progress: (392/800) | 143.38 s
+[Task  3/20]  Current/Best:  377.85/ 467.65 GFLOPS | Progress: (420/800) | 152.40 s
+[Task  3/20]  Current/Best:  190.57/ 467.65 GFLOPS | Progress: (448/800) | 161.99 s
+[Task  3/20]  Current/Best:   77.08/ 467.65 GFLOPS | Progress: (476/800) | 172.74 s
+[Task  3/20]  Current/Best:   35.17/ 467.65 GFLOPS | Progress: (504/800) | 183.08 s
+[Task  3/20]  Current/Best:  238.51/ 467.65 GFLOPS | Progress: (532/800) | 192.46 s
+[Task  3/20]  Current/Best:  180.49/ 467.65 GFLOPS | Progress: (560/800) | 201.89 s
+[Task  3/20]  Current/Best:   31.25/ 467.65 GFLOPS | Progress: (588/800) | 211.94 s
+[Task  3/20]  Current/Best:   40.55/ 467.65 GFLOPS | Progress: (616/800) | 223.73 s
+[Task  3/20]  Current/Best:   34.54/ 467.65 GFLOPS | Progress: (644/800) | 233.38 s
+[Task  3/20]  Current/Best:  284.84/ 467.65 GFLOPS | Progress: (672/800) | 242.66 s
+[Task  3/20]  Current/Best:   72.89/ 467.65 GFLOPS | Progress: (700/800) | 252.69 s
+[Task  3/20]  Current/Best:   52.14/ 467.65 GFLOPS | Progress: (728/800) | 264.15 s
+[Task  3/20]  Current/Best:   44.37/ 467.65 GFLOPS | Progress: (756/800) | 273.64 s
+[Task  3/20]  Current/Best:  187.24/ 467.65 GFLOPS | Progress: (784/800) | 282.77 s
+[Task  3/20]  Current/Best:   30.02/ 467.65 GFLOPS | Progress: (800/800) | 288.24 s Done.
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 22.86 ms (0.00 ms)
+
+[Task  4/20]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/800) | 0.00 s
+[Task  4/20]  Current/Best:   52.75/  53.10 GFLOPS | Progress: (28/800) | 10.00 s
+[Task  4/20]  Current/Best:   28.47/ 186.56 GFLOPS | Progress: (56/800) | 18.77 s
+[Task  4/20]  Current/Best:  158.89/ 250.61 GFLOPS | Progress: (84/800) | 27.72 s
+[Task  4/20]  Current/Best:   22.69/ 250.61 GFLOPS | Progress: (112/800) | 40.23 s
+[Task  4/20]  Current/Best:   90.48/ 250.61 GFLOPS | Progress: (140/800) | 49.37 s
+[Task  4/20]  Current/Best:   24.48/ 292.06 GFLOPS | Progress: (168/800) | 58.04 s
+[Task  4/20]  Current/Best:  175.52/ 355.15 GFLOPS | Progress: (196/800) | 67.01 s
+[Task  4/20]  Current/Best:   14.58/ 355.15 GFLOPS | Progress: (224/800) | 77.58 s
+[Task  4/20]  Current/Best:  169.69/ 355.15 GFLOPS | Progress: (252/800) | 86.40 s
+[Task  4/20]  Current/Best:  307.06/ 437.94 GFLOPS | Progress: (280/800) | 95.02 s
+[Task  4/20]  Current/Best:  188.81/ 437.94 GFLOPS | Progress: (308/800) | 104.18 s
+[Task  4/20]  Current/Best:   58.15/ 437.94 GFLOPS | Progress: (336/800) | 114.98 s
+[Task  4/20]  Current/Best:   58.27/ 437.94 GFLOPS | Progress: (364/800) | 123.70 s
+[Task  4/20]  Current/Best:  262.09/ 437.94 GFLOPS | Progress: (392/800) | 132.26 s
+[Task  4/20]  Current/Best:   28.20/ 437.94 GFLOPS | Progress: (420/800) | 141.56 s
+[Task  4/20]  Current/Best:   11.41/ 437.94 GFLOPS | Progress: (448/800) | 151.61 s
+[Task  4/20]  Current/Best:  157.72/ 437.94 GFLOPS | Progress: (476/800) | 160.56 s
+[Task  4/20]  Current/Best:   66.79/ 437.94 GFLOPS | Progress: (504/800) | 169.36 s
+[Task  4/20]  Current/Best:   27.80/ 437.94 GFLOPS | Progress: (532/800) | 178.54 s
+[Task  4/20]  Current/Best:   21.19/ 437.94 GFLOPS | Progress: (560/800) | 189.38 s
+[Task  4/20]  Current/Best:  122.64/ 437.94 GFLOPS | Progress: (588/800) | 198.35 s
+[Task  4/20]  Current/Best:   76.68/ 437.94 GFLOPS | Progress: (616/800) | 207.08 s
+[Task  4/20]  Current/Best:   55.91/ 437.94 GFLOPS | Progress: (644/800) | 216.46 s
+[Task  4/20]  Current/Best:   39.71/ 437.94 GFLOPS | Progress: (672/800) | 227.15 s
+[Task  4/20]  Current/Best:  300.86/ 437.94 GFLOPS | Progress: (700/800) | 235.91 s
+[Task  4/20]  Current/Best:   20.58/ 437.94 GFLOPS | Progress: (728/800) | 244.71 s
+[Task  4/20]  Current/Best:   45.74/ 437.94 GFLOPS | Progress: (756/800) | 254.14 s
+[Task  4/20]  Current/Best:   53.11/ 437.94 GFLOPS | Progress: (784/800) | 264.65 s
+[Task  4/20]  Current/Best:  189.39/ 437.94 GFLOPS | Progress: (800/800) | 269.72 s Done.
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 22.89 ms (0.00 ms)
+
+[Task  5/20]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/800) | 0.00 s
+[Task  5/20]  Current/Best:   67.93/  67.93 GFLOPS | Progress: (28/800) | 10.19 s
+[Task  5/20]  Current/Best:  327.64/ 392.29 GFLOPS | Progress: (56/800) | 18.42 s
+[Task  5/20]  Current/Best:  152.91/ 392.29 GFLOPS | Progress: (84/800) | 27.57 s
+[Task  5/20]  Current/Best:   54.50/ 392.29 GFLOPS | Progress: (112/800) | 44.25 s
+[Task  5/20]  Current/Best:  388.61/ 392.29 GFLOPS | Progress: (140/800) | 52.64 s
+[Task  5/20]  Current/Best:  210.63/ 612.42 GFLOPS | Progress: (168/800) | 60.99 s
+[Task  5/20]  Current/Best:  111.36/ 612.42 GFLOPS | Progress: (196/800) | 73.25 s
+[Task  5/20]  Current/Best:  176.75/ 612.42 GFLOPS | Progress: (224/800) | 83.36 s
+[Task  5/20]  Current/Best:  447.69/ 627.71 GFLOPS | Progress: (252/800) | 91.59 s
+[Task  5/20]  Current/Best:  154.25/ 627.71 GFLOPS | Progress: (280/800) | 100.85 s
+[Task  5/20]  Current/Best:   57.08/ 627.71 GFLOPS | Progress: (308/800) | 113.02 s
+[Task  5/20]  Current/Best:  268.59/ 627.71 GFLOPS | Progress: (336/800) | 121.26 s
+[Task  5/20]  Current/Best:   88.42/ 627.71 GFLOPS | Progress: (364/800) | 129.89 s
+[Task  5/20]  Current/Best:  152.04/ 627.71 GFLOPS | Progress: (392/800) | 141.89 s
+[Task  5/20]  Current/Best:  250.84/ 627.71 GFLOPS | Progress: (420/800) | 152.73 s
+[Task  5/20]  Current/Best:  305.17/ 627.71 GFLOPS | Progress: (448/800) | 161.03 s
+[Task  5/20]  Current/Best:  181.09/ 627.71 GFLOPS | Progress: (476/800) | 169.99 s
+[Task  5/20]  Current/Best:   96.24/ 627.71 GFLOPS | Progress: (504/800) | 182.77 s
+[Task  5/20]  Current/Best:  114.14/ 627.71 GFLOPS | Progress: (532/800) | 190.92 s
+[Task  5/20]  Current/Best:  100.24/ 627.71 GFLOPS | Progress: (560/800) | 199.49 s
+[Task  5/20]  Current/Best:   62.25/ 627.71 GFLOPS | Progress: (588/800) | 215.53 s
+[Task  5/20]  Current/Best:  109.07/ 627.71 GFLOPS | Progress: (616/800) | 229.54 s
+[Task  5/20]  Current/Best:  568.76/ 627.71 GFLOPS | Progress: (644/800) | 237.81 s
+[Task  5/20]  Current/Best:  188.83/ 627.71 GFLOPS | Progress: (672/800) | 246.81 s
+[Task  5/20]  Current/Best:   52.60/ 627.71 GFLOPS | Progress: (700/800) | 261.35 s
+[Task  5/20]  Current/Best:  396.10/ 627.71 GFLOPS | Progress: (728/800) | 269.69 s
+[Task  5/20]  Current/Best:  263.58/ 706.75 GFLOPS | Progress: (756/800) | 277.89 s
+[Task  5/20]  Current/Best:   83.88/ 706.75 GFLOPS | Progress: (784/800) | 290.21 s
+[Task  5/20]  Current/Best:   69.45/ 706.75 GFLOPS | Progress: (800/800) | 299.70 s Done.
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 22.86 ms (0.21 ms)
+
+[Task  6/20]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/800) | 0.00 s
+[Task  6/20]  Current/Best:   62.15/  62.15 GFLOPS | Progress: (28/800) | 12.64 s
+[Task  6/20]  Current/Best:  168.66/ 229.45 GFLOPS | Progress: (56/800) | 21.97 s
+[Task  6/20]  Current/Best:   26.73/ 229.45 GFLOPS | Progress: (84/800) | 31.71 s
+[Task  6/20]  Current/Best:  204.02/ 229.45 GFLOPS | Progress: (112/800) | 41.92 s
+[Task  6/20]  Current/Best:  270.07/ 379.16 GFLOPS | Progress: (140/800) | 50.98 s
+[Task  6/20]  Current/Best:   46.20/ 379.16 GFLOPS | Progress: (168/800) | 61.06 s
+[Task  6/20]  Current/Best:   92.91/ 379.16 GFLOPS | Progress: (196/800) | 70.55 s
+[Task  6/20]  Current/Best:  278.85/ 540.25 GFLOPS | Progress: (224/800) | 79.84 s
+[Task  6/20]  Current/Best:   87.83/ 540.25 GFLOPS | Progress: (252/800) | 89.85 s
+[Task  6/20]  Current/Best:  233.71/ 572.73 GFLOPS | Progress: (280/800) | 99.03 s
+[Task  6/20]  Current/Best:  199.62/ 572.73 GFLOPS | Progress: (308/800) | 108.37 s
+[Task  6/20]  Current/Best:  124.04/ 572.73 GFLOPS | Progress: (336/800) | 118.58 s
+[Task  6/20]  Current/Best:  304.19/ 587.99 GFLOPS | Progress: (364/800) | 127.72 s
+[Task  6/20]  Current/Best:   82.11/ 587.99 GFLOPS | Progress: (392/800) | 137.25 s
+[Task  6/20]  Current/Best:  120.82/ 587.99 GFLOPS | Progress: (420/800) | 147.22 s
+[Task  6/20]  Current/Best:  283.32/ 587.99 GFLOPS | Progress: (448/800) | 156.45 s
+[Task  6/20]  Current/Best:  209.53/ 587.99 GFLOPS | Progress: (476/800) | 166.39 s
+[Task  6/20]  Current/Best:   26.95/ 587.99 GFLOPS | Progress: (504/800) | 179.77 s
+[Task  6/20]  Current/Best:  148.24/ 587.99 GFLOPS | Progress: (532/800) | 189.49 s
+[Task  6/20]  Current/Best:  150.24/ 587.99 GFLOPS | Progress: (560/800) | 198.96 s
+[Task  6/20]  Current/Best:  104.93/ 587.99 GFLOPS | Progress: (588/800) | 209.63 s
+[Task  6/20]  Current/Best:  341.93/ 587.99 GFLOPS | Progress: (616/800) | 218.92 s
+[Task  6/20]  Current/Best:  169.10/ 587.99 GFLOPS | Progress: (644/800) | 229.25 s
+[Task  6/20]  Current/Best:  178.82/ 587.99 GFLOPS | Progress: (672/800) | 239.19 s
+[Task  6/20]  Current/Best:  197.85/ 587.99 GFLOPS | Progress: (700/800) | 248.33 s
+[Task  6/20]  Current/Best:   70.28/ 587.99 GFLOPS | Progress: (728/800) | 258.73 s
+[Task  6/20]  Current/Best:   79.06/ 587.99 GFLOPS | Progress: (756/800) | 268.39 s
+[Task  6/20]  Current/Best:  256.77/ 587.99 GFLOPS | Progress: (784/800) | 277.58 s
+[Task  6/20]  Current/Best:  202.07/ 587.99 GFLOPS | Progress: (800/800) | 283.11 s Done.
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 20.27 ms (0.00 ms)
+
+[Task  7/20]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/800) | 0.00 s
+[Task  7/20]  Current/Best:   53.86/  54.10 GFLOPS | Progress: (28/800) | 10.71 s
+[Task  7/20]  Current/Best:   53.69/ 204.45 GFLOPS | Progress: (56/800) | 19.46 s
+[Task  7/20]  Current/Best:  169.43/ 347.92 GFLOPS | Progress: (84/800) | 28.18 s
+[Task  7/20]  Current/Best:   52.65/ 347.92 GFLOPS | Progress: (112/800) | 41.14 s
+[Task  7/20]  Current/Best:  205.79/ 347.92 GFLOPS | Progress: (140/800) | 49.80 s
+[Task  7/20]  Current/Best:  250.74/ 483.68 GFLOPS | Progress: (168/800) | 58.27 s
+[Task  7/20]  Current/Best:  170.67/ 483.68 GFLOPS | Progress: (196/800) | 70.18 s
+[Task  7/20]  Current/Best:  140.57/ 483.68 GFLOPS | Progress: (224/800) | 79.21 s
+[Task  7/20]  Current/Best:  115.88/ 535.91 GFLOPS | Progress: (252/800) | 87.76 s
+[Task  7/20]  Current/Best:  206.35/ 571.13 GFLOPS | Progress: (280/800) | 96.50 s
+[Task  7/20]  Current/Best:   81.45/ 571.13 GFLOPS | Progress: (308/800) | 105.74 s
+[Task  7/20]  Current/Best:  424.65/ 571.13 GFLOPS | Progress: (336/800) | 114.30 s
+[Task  7/20]  Current/Best:  245.71/ 571.13 GFLOPS | Progress: (364/800) | 122.88 s
+[Task  7/20]  Current/Best:  188.65/ 571.13 GFLOPS | Progress: (392/800) | 132.28 s
+[Task  7/20]  Current/Best:  171.97/ 571.13 GFLOPS | Progress: (420/800) | 141.16 s
+[Task  7/20]  Current/Best:   72.71/ 571.13 GFLOPS | Progress: (448/800) | 149.62 s
+[Task  7/20]  Current/Best:   95.22/ 571.13 GFLOPS | Progress: (476/800) | 158.47 s
+[Task  7/20]  Current/Best:   87.75/ 571.13 GFLOPS | Progress: (504/800) | 167.82 s
+[Task  7/20]  Current/Best:  247.88/ 571.13 GFLOPS | Progress: (532/800) | 176.43 s
+[Task  7/20]  Current/Best:  297.40/ 571.13 GFLOPS | Progress: (560/800) | 185.06 s
+[Task  7/20]  Current/Best:  201.99/ 571.13 GFLOPS | Progress: (588/800) | 194.53 s
+[Task  7/20]  Current/Best:   53.69/ 571.13 GFLOPS | Progress: (616/800) | 204.02 s
+[Task  7/20]  Current/Best:   68.41/ 571.13 GFLOPS | Progress: (644/800) | 212.64 s
+[Task  7/20]  Current/Best:   51.30/ 571.13 GFLOPS | Progress: (672/800) | 221.36 s
+[Task  7/20]  Current/Best:   51.45/ 571.13 GFLOPS | Progress: (700/800) | 231.51 s
+[Task  7/20]  Current/Best:  272.89/ 571.13 GFLOPS | Progress: (728/800) | 240.22 s
+[Task  7/20]  Current/Best:   76.85/ 626.01 GFLOPS | Progress: (756/800) | 248.78 s
+[Task  7/20]  Current/Best:   88.47/ 626.01 GFLOPS | Progress: (784/800) | 258.23 s
+[Task  7/20]  Current/Best:   66.67/ 626.01 GFLOPS | Progress: (800/800) | 264.74 s Done.
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 19.48 ms (0.00 ms)
+
+[Task  8/20]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/800) | 0.00 s
+[Task  8/20]  Current/Best:   55.18/  55.18 GFLOPS | Progress: (28/800) | 10.08 s
+[Task  8/20]  Current/Best:  133.63/ 251.23 GFLOPS | Progress: (56/800) | 18.90 s
+[Task  8/20]  Current/Best:  136.03/ 325.72 GFLOPS | Progress: (84/800) | 33.56 s
+[Task  8/20]  Current/Best:   99.60/ 325.72 GFLOPS | Progress: (112/800) | 45.50 s
+[Task  8/20]  Current/Best:  348.71/ 348.71 GFLOPS | Progress: (140/800) | 54.20 s
+[Task  8/20]  Current/Best:  200.05/ 457.85 GFLOPS | Progress: (168/800) | 63.06 s
+[Task  8/20]  Current/Best:   81.49/ 457.85 GFLOPS | Progress: (196/800) | 75.12 s
+[Task  8/20]  Current/Best:  294.99/ 457.85 GFLOPS | Progress: (224/800) | 83.95 s
+[Task  8/20]  Current/Best:  166.57/ 489.44 GFLOPS | Progress: (252/800) | 92.77 s
+[Task  8/20]  Current/Best:   78.05/ 489.44 GFLOPS | Progress: (280/800) | 102.62 s
+[Task  8/20]  Current/Best:   92.10/ 489.44 GFLOPS | Progress: (308/800) | 111.38 s
+[Task  8/20]  Current/Best:   24.98/ 489.44 GFLOPS | Progress: (336/800) | 120.27 s
+[Task  8/20]  Current/Best:   41.86/ 489.44 GFLOPS | Progress: (364/800) | 130.13 s
+[Task  8/20]  Current/Best:  213.03/ 489.44 GFLOPS | Progress: (392/800) | 139.01 s
+[Task  8/20]  Current/Best:  298.56/ 489.44 GFLOPS | Progress: (420/800) | 147.86 s
+[Task  8/20]  Current/Best:   31.58/ 489.44 GFLOPS | Progress: (448/800) | 157.75 s
+[Task  8/20]  Current/Best:   22.49/ 489.44 GFLOPS | Progress: (476/800) | 166.63 s
+[Task  8/20]  Current/Best:  247.16/ 489.44 GFLOPS | Progress: (504/800) | 175.39 s
+[Task  8/20]  Current/Best:  166.12/ 489.44 GFLOPS | Progress: (532/800) | 184.95 s
+[Task  8/20]  Current/Best:   52.80/ 489.44 GFLOPS | Progress: (560/800) | 194.42 s
+[Task  8/20]  Current/Best:  349.52/ 489.44 GFLOPS | Progress: (588/800) | 203.29 s
+[Task  8/20]  Current/Best:  206.81/ 489.44 GFLOPS | Progress: (616/800) | 212.24 s
+[Task  8/20]  Current/Best:   71.35/ 489.44 GFLOPS | Progress: (644/800) | 222.46 s
+[Task  8/20]  Current/Best:  334.60/ 489.44 GFLOPS | Progress: (672/800) | 231.22 s
+[Task  8/20]  Current/Best:  258.92/ 553.62 GFLOPS | Progress: (700/800) | 240.06 s
+[Task  8/20]  Current/Best:   63.99/ 553.62 GFLOPS | Progress: (728/800) | 250.35 s
+[Task  8/20]  Current/Best:   27.75/ 553.62 GFLOPS | Progress: (756/800) | 259.34 s
+[Task  8/20]  Current/Best:  175.66/ 553.62 GFLOPS | Progress: (784/800) | 268.31 s
+[Task  8/20]  Current/Best:  150.54/ 553.62 GFLOPS | Progress: (800/800) | 273.86 s Done.
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 19.57 ms (0.11 ms)
+
+[Task  9/20]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/800) | 0.00 s
+[Task  9/20]  Current/Best:  132.60/ 132.60 GFLOPS | Progress: (28/800) | 9.94 s
+[Task  9/20]  Current/Best:  590.99/ 595.45 GFLOPS | Progress: (56/800) | 18.26 s
+[Task  9/20]  Current/Best:   29.30/ 595.45 GFLOPS | Progress: (84/800) | 30.03 s
+[Task  9/20]  Current/Best:  224.11/ 595.45 GFLOPS | Progress: (112/800) | 38.72 s
+[Task  9/20]  Current/Best:  225.89/ 724.03 GFLOPS | Progress: (140/800) | 47.24 s
+[Task  9/20]  Current/Best:   43.34/ 724.03 GFLOPS | Progress: (168/800) | 58.33 s
+[Task  9/20]  Current/Best:  308.86/ 724.03 GFLOPS | Progress: (196/800) | 66.75 s
+[Task  9/20]  Current/Best:  213.66/ 724.03 GFLOPS | Progress: (224/800) | 75.37 s
+[Task  9/20]  Current/Best:   78.32/ 724.03 GFLOPS | Progress: (252/800) | 86.48 s
+[Task  9/20]  Current/Best:  462.88/ 724.03 GFLOPS | Progress: (280/800) | 94.84 s
+[Task  9/20]  Current/Best:  141.70/ 724.03 GFLOPS | Progress: (308/800) | 104.21 s
+[Task  9/20]  Current/Best:  126.65/ 724.03 GFLOPS | Progress: (336/800) | 115.46 s
+[Task  9/20]  Current/Best:  132.51/ 724.03 GFLOPS | Progress: (364/800) | 123.85 s
+[Task  9/20]  Current/Best:  163.51/ 724.03 GFLOPS | Progress: (392/800) | 133.32 s
+[Task  9/20]  Current/Best:  207.87/ 724.03 GFLOPS | Progress: (420/800) | 143.83 s
+[Task  9/20]  Current/Best:  166.72/ 724.03 GFLOPS | Progress: (448/800) | 152.29 s
+[Task  9/20]  Current/Best:  190.03/ 724.03 GFLOPS | Progress: (476/800) | 165.04 s
+[Task  9/20]  Current/Best:   77.98/ 724.03 GFLOPS | Progress: (504/800) | 176.69 s
+[Task  9/20]  Current/Best:  140.58/ 724.03 GFLOPS | Progress: (532/800) | 185.19 s
+[Task  9/20]  Current/Best:   82.43/ 724.03 GFLOPS | Progress: (560/800) | 196.79 s
+[Task  9/20]  Current/Best:  370.63/ 724.03 GFLOPS | Progress: (588/800) | 205.32 s
+[Task  9/20]  Current/Best:  250.07/ 724.03 GFLOPS | Progress: (616/800) | 213.99 s
+[Task  9/20]  Current/Best:   29.91/ 724.03 GFLOPS | Progress: (644/800) | 228.69 s
+[Task  9/20]  Current/Best:  226.54/ 724.03 GFLOPS | Progress: (672/800) | 237.34 s
+[Task  9/20]  Current/Best:  220.89/ 724.03 GFLOPS | Progress: (700/800) | 245.73 s
+[Task  9/20]  Current/Best:   51.88/ 724.03 GFLOPS | Progress: (728/800) | 255.27 s
+[Task  9/20]  Current/Best:  637.34/ 724.03 GFLOPS | Progress: (756/800) | 263.69 s
+[Task  9/20]  Current/Best:  214.99/ 724.03 GFLOPS | Progress: (784/800) | 272.65 s
+[Task  9/20]  Current/Best:  182.48/ 724.03 GFLOPS | Progress: (800/800) | 282.10 s Done.
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 19.65 ms (0.11 ms)
+
+[Task 10/20]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/800) | 0.00 s
+[Task 10/20]  Current/Best:   85.59/ 105.94 GFLOPS | Progress: (28/800) | 11.79 s
+[Task 10/20]  Current/Best:  238.51/ 354.79 GFLOPS | Progress: (56/800) | 20.66 s
+[Task 10/20]  Current/Best:  106.02/ 354.79 GFLOPS | Progress: (84/800) | 30.51 s
+[Task 10/20]  Current/Best:  589.98/ 589.98 GFLOPS | Progress: (112/800) | 39.24 s
+[Task 10/20]  Current/Best:  104.36/ 589.98 GFLOPS | Progress: (140/800) | 48.39 s
+[Task 10/20]  Current/Best:  656.65/ 656.65 GFLOPS | Progress: (168/800) | 57.18 s
+[Task 10/20]  Current/Best:   87.14/ 656.65 GFLOPS | Progress: (196/800) | 66.10 s
+[Task 10/20]  Current/Best:  589.35/ 656.65 GFLOPS | Progress: (224/800) | 75.05 s
+[Task 10/20]  Current/Best:  214.57/ 656.65 GFLOPS | Progress: (252/800) | 84.34 s
+[Task 10/20]  Current/Best:  286.77/ 656.65 GFLOPS | Progress: (280/800) | 93.62 s
+[Task 10/20]  Current/Best:  107.42/ 656.65 GFLOPS | Progress: (308/800) | 102.34 s
+[Task 10/20]  Current/Best:  138.89/ 656.65 GFLOPS | Progress: (336/800) | 111.88 s
+[Task 10/20]  Current/Best:  159.92/ 656.65 GFLOPS | Progress: (364/800) | 120.65 s
+[Task 10/20]  Current/Best:   66.52/ 656.65 GFLOPS | Progress: (392/800) | 130.16 s
+[Task 10/20]  Current/Best:  230.53/ 656.65 GFLOPS | Progress: (420/800) | 139.12 s
+[Task 10/20]  Current/Best:  127.34/ 656.65 GFLOPS | Progress: (448/800) | 148.80 s
+[Task 10/20]  Current/Best:  226.23/ 656.65 GFLOPS | Progress: (476/800) | 157.99 s
+[Task 10/20]  Current/Best:  119.22/ 656.65 GFLOPS | Progress: (504/800) | 167.46 s
+[Task 10/20]  Current/Best:   54.11/ 656.65 GFLOPS | Progress: (532/800) | 179.33 s
+[Task 10/20]  Current/Best:  293.37/ 656.65 GFLOPS | Progress: (560/800) | 188.46 s
+[Task 10/20]  Current/Best:   53.66/ 656.65 GFLOPS | Progress: (588/800) | 198.85 s
+[Task 10/20]  Current/Best:  384.30/ 656.65 GFLOPS | Progress: (616/800) | 207.89 s
+[Task 10/20]  Current/Best:   51.50/ 656.65 GFLOPS | Progress: (644/800) | 217.27 s
+[Task 10/20]  Current/Best:  385.51/ 656.65 GFLOPS | Progress: (672/800) | 226.47 s
+[Task 10/20]  Current/Best:  222.10/ 666.09 GFLOPS | Progress: (700/800) | 235.77 s
+[Task 10/20]  Current/Best:  124.74/ 666.09 GFLOPS | Progress: (728/800) | 244.83 s
+[Task 10/20]  Current/Best:  269.36/ 666.09 GFLOPS | Progress: (756/800) | 253.52 s
+[Task 10/20]  Current/Best:  140.23/ 666.09 GFLOPS | Progress: (784/800) | 262.90 s
+[Task 10/20]  Current/Best:  204.78/ 666.09 GFLOPS | Progress: (800/800) | 268.06 s Done.
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 18.88 ms (0.01 ms)
+
+[Task 11/20]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/800) | 0.00 s
+[Task 11/20]  Current/Best:   56.13/  56.13 GFLOPS | Progress: (28/800) | 10.75 s
+[Task 11/20]  Current/Best:  359.01/ 359.01 GFLOPS | Progress: (56/800) | 19.59 s
+[Task 11/20]  Current/Best:   26.61/ 369.44 GFLOPS | Progress: (84/800) | 31.31 s
+[Task 11/20]  Current/Best:  206.13/ 369.44 GFLOPS | Progress: (112/800) | 40.43 s
+[Task 11/20]  Current/Best:  546.46/ 583.11 GFLOPS | Progress: (140/800) | 49.08 s
+[Task 11/20]  Current/Best:   49.96/ 583.11 GFLOPS | Progress: (168/800) | 58.78 s
+[Task 11/20]  Current/Best:  372.53/ 583.11 GFLOPS | Progress: (196/800) | 67.61 s
+[Task 11/20]  Current/Best:  240.80/ 619.93 GFLOPS | Progress: (224/800) | 76.30 s
+[Task 11/20]  Current/Best:   91.72/ 619.93 GFLOPS | Progress: (252/800) | 85.98 s
+[Task 11/20]  Current/Best:   67.51/ 619.93 GFLOPS | Progress: (280/800) | 94.74 s
+[Task 11/20]  Current/Best:  259.24/ 619.93 GFLOPS | Progress: (308/800) | 103.58 s
+[Task 11/20]  Current/Best:  125.84/ 619.93 GFLOPS | Progress: (336/800) | 112.91 s
+[Task 11/20]  Current/Best:  323.12/ 619.93 GFLOPS | Progress: (364/800) | 121.67 s
+[Task 11/20]  Current/Best:  169.87/ 619.93 GFLOPS | Progress: (392/800) | 130.85 s
+[Task 11/20]  Current/Best:  101.62/ 619.93 GFLOPS | Progress: (420/800) | 139.94 s
+[Task 11/20]  Current/Best:  243.13/ 619.93 GFLOPS | Progress: (448/800) | 148.76 s
+[Task 11/20]  Current/Best:  168.31/ 619.93 GFLOPS | Progress: (476/800) | 158.30 s
+[Task 11/20]  Current/Best:   43.66/ 619.93 GFLOPS | Progress: (504/800) | 167.59 s
+[Task 11/20]  Current/Best:  207.82/ 619.93 GFLOPS | Progress: (532/800) | 176.45 s
+[Task 11/20]  Current/Best:  212.44/ 619.93 GFLOPS | Progress: (560/800) | 185.76 s
+[Task 11/20]  Current/Best:  220.50/ 619.93 GFLOPS | Progress: (588/800) | 194.72 s
+[Task 11/20]  Current/Best:  252.23/ 619.93 GFLOPS | Progress: (616/800) | 203.71 s
+[Task 11/20]  Current/Best:   26.91/ 619.93 GFLOPS | Progress: (644/800) | 213.38 s
+[Task 11/20]  Current/Best:  189.79/ 619.93 GFLOPS | Progress: (672/800) | 222.55 s
+[Task 11/20]  Current/Best:  569.56/ 619.93 GFLOPS | Progress: (700/800) | 231.33 s
+[Task 11/20]  Current/Best:   52.32/ 619.93 GFLOPS | Progress: (728/800) | 240.55 s
+[Task 11/20]  Current/Best:  366.76/ 619.93 GFLOPS | Progress: (756/800) | 249.49 s
+[Task 11/20]  Current/Best:  252.52/ 631.91 GFLOPS | Progress: (784/800) | 258.34 s
+[Task 11/20]  Current/Best:  208.34/ 631.91 GFLOPS | Progress: (800/800) | 264.26 s Done.
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 18.38 ms (0.01 ms)
+
+[Task 12/20]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/800) | 0.00 s
+[Task 12/20]  Current/Best:   17.25/  58.32 GFLOPS | Progress: (28/800) | 10.81 s
+[Task 12/20]  Current/Best:  188.29/ 360.64 GFLOPS | Progress: (56/800) | 20.39 s
+[Task 12/20]  Current/Best:   37.01/ 360.64 GFLOPS | Progress: (84/800) | 30.87 s
+[Task 12/20]  Current/Best:  286.32/ 360.64 GFLOPS | Progress: (112/800) | 40.39 s
+[Task 12/20]  Current/Best:  181.76/ 508.38 GFLOPS | Progress: (140/800) | 50.75 s
+[Task 12/20]  Current/Best:  170.41/ 508.38 GFLOPS | Progress: (168/800) | 61.00 s
+[Task 12/20]  Current/Best:  402.04/ 531.54 GFLOPS | Progress: (196/800) | 70.63 s
+[Task 12/20]  Current/Best:   71.23/ 531.54 GFLOPS | Progress: (224/800) | 81.15 s
+[Task 12/20]  Current/Best:  340.63/ 531.54 GFLOPS | Progress: (252/800) | 90.69 s
+[Task 12/20]  Current/Best:  147.75/ 531.54 GFLOPS | Progress: (280/800) | 101.19 s
+[Task 12/20]  Current/Best:  113.37/ 531.54 GFLOPS | Progress: (308/800) | 111.20 s
+[Task 12/20]  Current/Best:   16.43/ 531.54 GFLOPS | Progress: (336/800) | 120.88 s
+[Task 12/20]  Current/Best:   20.02/ 531.54 GFLOPS | Progress: (364/800) | 131.03 s
+[Task 12/20]  Current/Best:  206.27/ 531.54 GFLOPS | Progress: (392/800) | 140.75 s
+[Task 12/20]  Current/Best:  100.12/ 531.54 GFLOPS | Progress: (420/800) | 150.59 s
+[Task 12/20]  Current/Best:   79.81/ 531.54 GFLOPS | Progress: (448/800) | 161.10 s
+[Task 12/20]  Current/Best:  244.24/ 531.54 GFLOPS | Progress: (476/800) | 170.84 s
+[Task 12/20]  Current/Best:   18.00/ 531.54 GFLOPS | Progress: (504/800) | 181.44 s
+[Task 12/20]  Current/Best:  169.78/ 531.54 GFLOPS | Progress: (532/800) | 191.08 s
+[Task 12/20]  Current/Best:  174.94/ 531.54 GFLOPS | Progress: (560/800) | 201.07 s
+[Task 12/20]  Current/Best:   52.76/ 531.54 GFLOPS | Progress: (588/800) | 211.45 s
+[Task 12/20]  Current/Best:  305.91/ 531.54 GFLOPS | Progress: (616/800) | 221.22 s
+[Task 12/20]  Current/Best:  183.01/ 531.54 GFLOPS | Progress: (644/800) | 231.30 s
+[Task 12/20]  Current/Best:  173.73/ 531.54 GFLOPS | Progress: (672/800) | 241.20 s
+[Task 12/20]  Current/Best:  396.77/ 531.54 GFLOPS | Progress: (700/800) | 250.90 s
+[Task 12/20]  Current/Best:   15.31/ 531.54 GFLOPS | Progress: (728/800) | 261.36 s
+[Task 12/20]  Current/Best:  399.58/ 531.54 GFLOPS | Progress: (756/800) | 270.98 s
+[Task 12/20]  Current/Best:  144.33/ 531.54 GFLOPS | Progress: (784/800) | 281.26 s
+[Task 12/20]  Current/Best:   65.52/ 531.54 GFLOPS | Progress: (800/800) | 287.98 s Done.
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 18.55 ms (0.00 ms)
+
+[Task 13/20]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/800) | 0.00 s
+[Task 13/20]  Current/Best:  179.82/ 186.56 GFLOPS | Progress: (28/800) | 10.00 s
+[Task 13/20]  Current/Best:  115.70/ 218.51 GFLOPS | Progress: (56/800) | 19.80 s
+[Task 13/20]  Current/Best:   55.22/ 218.51 GFLOPS | Progress: (84/800) | 30.56 s
+[Task 13/20]  Current/Best:  679.08/ 679.08 GFLOPS | Progress: (112/800) | 39.55 s
+[Task 13/20]  Current/Best:   65.73/ 679.08 GFLOPS | Progress: (140/800) | 50.24 s
+[Task 13/20]  Current/Best:  678.76/ 679.08 GFLOPS | Progress: (168/800) | 59.09 s
+[Task 13/20]  Current/Best:   52.05/ 679.08 GFLOPS | Progress: (196/800) | 68.33 s
+[Task 13/20]  Current/Best:  637.48/ 679.08 GFLOPS | Progress: (224/800) | 77.19 s
+[Task 13/20]  Current/Best:  181.55/ 679.08 GFLOPS | Progress: (252/800) | 87.78 s
+[Task 13/20]  Current/Best:  430.76/ 679.08 GFLOPS | Progress: (280/800) | 96.81 s
+[Task 13/20]  Current/Best:  196.73/ 679.08 GFLOPS | Progress: (308/800) | 106.38 s
+[Task 13/20]  Current/Best:   92.28/ 679.08 GFLOPS | Progress: (336/800) | 116.88 s
+[Task 13/20]  Current/Best:  231.35/ 679.08 GFLOPS | Progress: (364/800) | 125.95 s
+[Task 13/20]  Current/Best:   44.28/ 679.08 GFLOPS | Progress: (392/800) | 137.01 s
+[Task 13/20]  Current/Best:  277.85/ 679.08 GFLOPS | Progress: (420/800) | 145.99 s
+[Task 13/20]  Current/Best:   67.56/ 679.08 GFLOPS | Progress: (448/800) | 156.99 s
+[Task 13/20]  Current/Best:  316.16/ 679.08 GFLOPS | Progress: (476/800) | 166.08 s
+[Task 13/20]  Current/Best:  102.96/ 679.08 GFLOPS | Progress: (504/800) | 177.13 s
+[Task 13/20]  Current/Best:  262.32/ 679.08 GFLOPS | Progress: (532/800) | 186.55 s
+[Task 13/20]  Current/Best:  113.46/ 679.08 GFLOPS | Progress: (560/800) | 197.69 s
+[Task 13/20]  Current/Best:  218.34/ 679.08 GFLOPS | Progress: (588/800) | 210.70 s
+[Task 13/20]  Current/Best:  214.15/ 679.08 GFLOPS | Progress: (616/800) | 220.09 s
+[Task 13/20]  Current/Best:   57.71/ 679.08 GFLOPS | Progress: (644/800) | 231.98 s
+[Task 13/20]  Current/Best:  205.19/ 679.08 GFLOPS | Progress: (672/800) | 241.98 s
+[Task 13/20]  Current/Best:   34.40/ 679.08 GFLOPS | Progress: (700/800) | 255.34 s
+[Task 13/20]  Current/Best:  413.70/ 679.08 GFLOPS | Progress: (728/800) | 264.25 s
+[Task 13/20]  Current/Best:  189.65/ 698.74 GFLOPS | Progress: (756/800) | 273.58 s
+[Task 13/20]  Current/Best:  400.91/ 698.74 GFLOPS | Progress: (784/800) | 282.58 s
+[Task 13/20]  Current/Best:  248.64/ 698.74 GFLOPS | Progress: (800/800) | 287.69 s Done.
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 18.93 ms (0.19 ms)
+
+[Task 14/20]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/800) | 0.00 s
+[Task 14/20]  Current/Best:  270.74/ 270.74 GFLOPS | Progress: (28/800) | 10.30 s
+[Task 14/20]  Current/Best:   14.08/ 270.74 GFLOPS | Progress: (56/800) | 21.19 s
+[Task 14/20]  Current/Best:   93.95/ 270.74 GFLOPS | Progress: (84/800) | 30.95 s
+[Task 14/20]  Current/Best:   53.83/ 381.84 GFLOPS | Progress: (112/800) | 40.57 s
+[Task 14/20]  Current/Best:  242.60/ 609.56 GFLOPS | Progress: (140/800) | 49.30 s
+[Task 14/20]  Current/Best:  103.50/ 609.56 GFLOPS | Progress: (168/800) | 58.53 s
+[Task 14/20]  Current/Best:  293.69/ 640.61 GFLOPS | Progress: (196/800) | 67.33 s
+[Task 14/20]  Current/Best:  224.97/ 640.61 GFLOPS | Progress: (224/800) | 76.26 s
+[Task 14/20]  Current/Best:   79.52/ 640.61 GFLOPS | Progress: (252/800) | 85.27 s
+[Task 14/20]  Current/Best:  352.78/ 640.61 GFLOPS | Progress: (280/800) | 94.09 s
+[Task 14/20]  Current/Best:  135.70/ 640.61 GFLOPS | Progress: (308/800) | 103.25 s
+[Task 14/20]  Current/Best:  263.43/ 640.61 GFLOPS | Progress: (336/800) | 112.05 s
+[Task 14/20]  Current/Best:  217.64/ 640.61 GFLOPS | Progress: (364/800) | 121.53 s
+[Task 14/20]  Current/Best:  171.12/ 640.61 GFLOPS | Progress: (392/800) | 130.79 s
+[Task 14/20]  Current/Best:  535.95/ 640.61 GFLOPS | Progress: (420/800) | 140.64 s
+[Task 14/20]  Current/Best:   83.01/ 640.61 GFLOPS | Progress: (448/800) | 151.63 s
+[Task 14/20]  Current/Best:  189.43/ 640.61 GFLOPS | Progress: (476/800) | 160.86 s
+[Task 14/20]  Current/Best:   66.03/ 640.61 GFLOPS | Progress: (504/800) | 170.56 s
+[Task 14/20]  Current/Best:  211.14/ 640.61 GFLOPS | Progress: (532/800) | 179.74 s
+[Task 14/20]  Current/Best:   55.08/ 640.61 GFLOPS | Progress: (560/800) | 191.45 s
+[Task 14/20]  Current/Best:  161.43/ 640.61 GFLOPS | Progress: (588/800) | 201.23 s
+[Task 14/20]  Current/Best:   92.64/ 640.61 GFLOPS | Progress: (616/800) | 211.04 s
+[Task 14/20]  Current/Best:   52.71/ 640.61 GFLOPS | Progress: (644/800) | 220.58 s
+[Task 14/20]  Current/Best:  632.96/ 640.61 GFLOPS | Progress: (672/800) | 229.45 s
+[Task 14/20]  Current/Best:  141.32/ 640.61 GFLOPS | Progress: (700/800) | 238.46 s
+[Task 14/20]  Current/Best:  312.68/ 640.61 GFLOPS | Progress: (728/800) | 247.12 s
+[Task 14/20]  Current/Best:  144.38/ 640.61 GFLOPS | Progress: (756/800) | 256.20 s
+[Task 14/20]  Current/Best:  254.58/ 640.61 GFLOPS | Progress: (784/800) | 265.31 s
+[Task 14/20]  Current/Best:  228.70/ 640.61 GFLOPS | Progress: (800/800) | 270.68 s Done.
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 17.90 ms (0.00 ms)
+
+[Task 15/20]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/800) | 0.00 s
+[Task 15/20]  Current/Best:  150.50/ 150.50 GFLOPS | Progress: (28/800) | 10.42 s
+[Task 15/20]  Current/Best:  188.22/ 206.22 GFLOPS | Progress: (56/800) | 20.28 s
+[Task 15/20]  Current/Best:   58.62/ 222.25 GFLOPS | Progress: (84/800) | 30.68 s
+[Task 15/20]  Current/Best:   54.32/ 365.57 GFLOPS | Progress: (112/800) | 40.08 s
+[Task 15/20]  Current/Best:   55.46/ 394.22 GFLOPS | Progress: (140/800) | 50.23 s
+[Task 15/20]  Current/Best:  377.84/ 394.22 GFLOPS | Progress: (168/800) | 59.80 s
+[Task 15/20]  Current/Best:   45.68/ 638.84 GFLOPS | Progress: (196/800) | 69.40 s
+[Task 15/20]  Current/Best:  339.49/ 638.84 GFLOPS | Progress: (224/800) | 78.75 s
+[Task 15/20]  Current/Best:  276.53/ 638.84 GFLOPS | Progress: (252/800) | 88.41 s
+[Task 15/20]  Current/Best:   35.04/ 638.84 GFLOPS | Progress: (280/800) | 97.77 s
+[Task 15/20]  Current/Best:  204.95/ 638.84 GFLOPS | Progress: (308/800) | 107.36 s
+[Task 15/20]  Current/Best:  145.77/ 638.84 GFLOPS | Progress: (336/800) | 117.08 s
+[Task 15/20]  Current/Best:  130.03/ 638.84 GFLOPS | Progress: (364/800) | 126.45 s
+[Task 15/20]  Current/Best:  100.58/ 638.84 GFLOPS | Progress: (392/800) | 136.23 s
+[Task 15/20]  Current/Best:  233.56/ 638.84 GFLOPS | Progress: (420/800) | 145.69 s
+[Task 15/20]  Current/Best:   68.11/ 638.84 GFLOPS | Progress: (448/800) | 155.31 s
+[Task 15/20]  Current/Best:  360.49/ 638.84 GFLOPS | Progress: (476/800) | 164.98 s
+[Task 15/20]  Current/Best:  260.20/ 638.84 GFLOPS | Progress: (504/800) | 174.71 s
+[Task 15/20]  Current/Best:  179.36/ 638.84 GFLOPS | Progress: (532/800) | 184.52 s
+[Task 15/20]  Current/Best:  197.47/ 638.84 GFLOPS | Progress: (560/800) | 194.70 s
+[Task 15/20]  Current/Best:  152.98/ 638.84 GFLOPS | Progress: (588/800) | 204.75 s
+[Task 15/20]  Current/Best:  238.98/ 638.84 GFLOPS | Progress: (616/800) | 214.22 s
+[Task 15/20]  Current/Best:   57.55/ 638.84 GFLOPS | Progress: (644/800) | 224.34 s
+[Task 15/20]  Current/Best:  165.54/ 638.84 GFLOPS | Progress: (672/800) | 234.74 s
+[Task 15/20]  Current/Best:   28.26/ 638.84 GFLOPS | Progress: (700/800) | 245.48 s
+[Task 15/20]  Current/Best:   32.98/ 638.84 GFLOPS | Progress: (728/800) | 255.10 s
+[Task 15/20]  Current/Best:  322.84/ 639.25 GFLOPS | Progress: (756/800) | 264.56 s
+[Task 15/20]  Current/Best:  150.55/ 639.25 GFLOPS | Progress: (784/800) | 274.21 s
+[Task 15/20]  Current/Best:  339.38/ 639.25 GFLOPS | Progress: (800/800) | 279.71 s Done.
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 17.16 ms (0.00 ms)
+
+[Task 16/20]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/800) | 0.00 s
+[Task 16/20]  Current/Best:  169.50/ 176.70 GFLOPS | Progress: (28/800) | 9.19 s
+[Task 16/20]  Current/Best:    9.78/ 204.24 GFLOPS | Progress: (56/800) | 17.86 s
+[Task 16/20]  Current/Best:  248.93/ 248.93 GFLOPS | Progress: (84/800) | 26.16 s
+[Task 16/20]  Current/Best:   26.38/ 549.10 GFLOPS | Progress: (112/800) | 34.47 s
+[Task 16/20]  Current/Best:  549.52/ 549.52 GFLOPS | Progress: (140/800) | 42.66 s
+[Task 16/20]  Current/Best:  187.76/ 549.52 GFLOPS | Progress: (168/800) | 50.95 s
+[Task 16/20]  Current/Best:  255.37/ 549.52 GFLOPS | Progress: (196/800) | 59.44 s
+[Task 16/20]  Current/Best:  354.78/ 549.52 GFLOPS | Progress: (224/800) | 67.72 s
+[Task 16/20]  Current/Best:   23.39/ 549.52 GFLOPS | Progress: (252/800) | 76.58 s
+[Task 16/20]  Current/Best:  341.25/ 549.52 GFLOPS | Progress: (280/800) | 84.81 s
+[Task 16/20]  Current/Best:   89.99/ 549.52 GFLOPS | Progress: (308/800) | 93.55 s
+[Task 16/20]  Current/Best:  259.84/ 549.52 GFLOPS | Progress: (336/800) | 101.83 s
+[Task 16/20]  Current/Best:  181.47/ 549.52 GFLOPS | Progress: (364/800) | 110.39 s
+[Task 16/20]  Current/Best:  251.76/ 549.52 GFLOPS | Progress: (392/800) | 119.13 s
+[Task 16/20]  Current/Best:  238.35/ 549.52 GFLOPS | Progress: (420/800) | 127.70 s
+[Task 16/20]  Current/Best:   59.70/ 549.52 GFLOPS | Progress: (448/800) | 136.72 s
+[Task 16/20]  Current/Best:  259.79/ 549.52 GFLOPS | Progress: (476/800) | 145.14 s
+[Task 16/20]  Current/Best:   25.96/ 549.52 GFLOPS | Progress: (504/800) | 154.17 s
+[Task 16/20]  Current/Best:  193.94/ 549.52 GFLOPS | Progress: (532/800) | 163.50 s
+[Task 16/20]  Current/Best:   45.61/ 549.52 GFLOPS | Progress: (560/800) | 172.42 s
+[Task 16/20]  Current/Best:  339.17/ 549.52 GFLOPS | Progress: (588/800) | 180.91 s
+[Task 16/20]  Current/Best:  353.95/ 549.52 GFLOPS | Progress: (616/800) | 189.15 s
+[Task 16/20]  Current/Best:   27.09/ 581.28 GFLOPS | Progress: (644/800) | 197.38 s
+[Task 16/20]  Current/Best:   88.44/ 581.28 GFLOPS | Progress: (672/800) | 205.70 s
+[Task 16/20]  Current/Best:   35.25/ 581.28 GFLOPS | Progress: (700/800) | 214.22 s
+[Task 16/20]  Current/Best:  260.85/ 581.28 GFLOPS | Progress: (728/800) | 222.68 s
+[Task 16/20]  Current/Best:  207.29/ 581.28 GFLOPS | Progress: (756/800) | 231.45 s
+[Task 16/20]  Current/Best:  220.91/ 581.28 GFLOPS | Progress: (784/800) | 240.27 s
+[Task 16/20]  Current/Best:  133.39/ 581.28 GFLOPS | Progress: (800/800) | 245.65 s Done.
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 17.17 ms (0.01 ms)
+
+[Task 17/20]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/308) | 0.00 s
+[Task 17/20]  Current/Best:  214.79/ 415.92 GFLOPS | Progress: (28/308) | 12.59 s
+[Task 17/20]  Current/Best:  200.53/ 415.92 GFLOPS | Progress: (56/308) | 26.96 s
+[Task 17/20]  Current/Best:  151.86/ 480.38 GFLOPS | Progress: (84/308) | 36.69 s
+[Task 17/20]  Current/Best:  215.99/ 538.19 GFLOPS | Progress: (112/308) | 46.72 s
+[Task 17/20]  Current/Best:  199.58/ 538.19 GFLOPS | Progress: (140/308) | 60.75 s
+[Task 17/20]  Current/Best:  255.70/ 538.19 GFLOPS | Progress: (168/308) | 71.52 s
+[Task 17/20]  Current/Best:  302.24/ 743.53 GFLOPS | Progress: (196/308) | 82.45 s
+[Task 17/20]  Current/Best:  285.34/ 743.53 GFLOPS | Progress: (224/308) | 93.40 s
+[Task 17/20]  Current/Best:  263.95/ 743.53 GFLOPS | Progress: (252/308) | 102.83 s
+[Task 17/20]  Current/Best:  209.49/ 743.53 GFLOPS | Progress: (280/308) | 112.66 s
+[Task 17/20]  Current/Best:  233.67/ 743.53 GFLOPS | Progress: (308/308) | 123.09 s Done.
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 16.80 ms (0.01 ms)
+
+[Task 18/20]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/800) | 0.00 s
+[Task 18/20]  Current/Best:  106.31/ 106.31 GFLOPS | Progress: (28/800) | 12.98 s
+[Task 18/20]  Current/Best:  294.00/ 400.30 GFLOPS | Progress: (56/800) | 23.20 s
+[Task 18/20]  Current/Best:  152.34/ 400.30 GFLOPS | Progress: (84/800) | 35.13 s
+[Task 18/20]  Current/Best:  106.58/ 400.30 GFLOPS | Progress: (112/800) | 49.51 s
+[Task 18/20]  Current/Best:  593.09/ 593.09 GFLOPS | Progress: (140/800) | 59.81 s
+[Task 18/20]  Current/Best:  148.22/ 593.09 GFLOPS | Progress: (168/800) | 70.82 s
+[Task 18/20]  Current/Best:   85.07/ 593.09 GFLOPS | Progress: (196/800) | 83.77 s
+[Task 18/20]  Current/Best:   83.01/ 604.98 GFLOPS | Progress: (224/800) | 93.95 s
+[Task 18/20]  Current/Best:  215.83/ 604.98 GFLOPS | Progress: (252/800) | 104.44 s
+[Task 18/20]  Current/Best:   66.57/ 604.98 GFLOPS | Progress: (280/800) | 117.72 s
+[Task 18/20]  Current/Best:  333.05/ 604.98 GFLOPS | Progress: (308/800) | 127.92 s
+[Task 18/20]  Current/Best:  187.56/ 604.98 GFLOPS | Progress: (336/800) | 138.45 s
+[Task 18/20]  Current/Best:   49.39/ 604.98 GFLOPS | Progress: (364/800) | 152.22 s
+[Task 18/20]  Current/Best:  370.00/ 604.98 GFLOPS | Progress: (392/800) | 162.65 s
+[Task 18/20]  Current/Best:  191.15/ 604.98 GFLOPS | Progress: (420/800) | 172.83 s
+[Task 18/20]  Current/Best:  146.30/ 604.98 GFLOPS | Progress: (448/800) | 186.04 s
+[Task 18/20]  Current/Best:  190.22/ 604.98 GFLOPS | Progress: (476/800) | 198.08 s
+[Task 18/20]  Current/Best:  163.96/ 604.98 GFLOPS | Progress: (504/800) | 208.37 s
+[Task 18/20]  Current/Best:  191.45/ 604.98 GFLOPS | Progress: (532/800) | 222.64 s
+[Task 18/20]  Current/Best:   99.20/ 604.98 GFLOPS | Progress: (560/800) | 237.37 s
+[Task 18/20]  Current/Best:   70.86/ 604.98 GFLOPS | Progress: (588/800) | 247.76 s
+[Task 18/20]  Current/Best:  194.58/ 604.98 GFLOPS | Progress: (616/800) | 258.94 s
+[Task 18/20]  Current/Best:   88.45/ 604.98 GFLOPS | Progress: (644/800) | 272.67 s
+[Task 18/20]  Current/Best:  271.49/ 604.98 GFLOPS | Progress: (672/800) | 282.96 s
+[Task 18/20]  Current/Best:  217.79/ 604.98 GFLOPS | Progress: (700/800) | 293.94 s
+[Task 18/20]  Current/Best:   27.69/ 604.98 GFLOPS | Progress: (728/800) | 310.85 s
+[Task 18/20]  Current/Best:  211.23/ 604.98 GFLOPS | Progress: (756/800) | 321.67 s
+[Task 18/20]  Current/Best:  199.53/ 668.46 GFLOPS | Progress: (784/800) | 331.92 s
+[Task 18/20]  Current/Best:  189.30/ 668.46 GFLOPS | Progress: (800/800) | 338.29 s Done.
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 16.21 ms (0.01 ms)
+
+[Task 19/20]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/800) | 0.00 s
+[Task 19/20]  Current/Best:   55.57/  55.57 GFLOPS | Progress: (28/800) | 12.74 s
+[Task 19/20]  Current/Best:  350.94/ 350.94 GFLOPS | Progress: (56/800) | 22.56 s
+[Task 19/20]  Current/Best:   59.76/ 361.35 GFLOPS | Progress: (84/800) | 32.41 s
+[Task 19/20]  Current/Best:   26.25/ 361.35 GFLOPS | Progress: (112/800) | 51.99 s
+[Task 19/20]  Current/Best:   53.34/ 361.35 GFLOPS | Progress: (140/800) | 62.57 s
+[Task 19/20]  Current/Best:  553.43/ 556.76 GFLOPS | Progress: (168/800) | 72.09 s
+[Task 19/20]  Current/Best:  161.10/ 571.91 GFLOPS | Progress: (196/800) | 82.19 s
+[Task 19/20]  Current/Best:   36.00/ 571.91 GFLOPS | Progress: (224/800) | 97.95 s
+[Task 19/20]  Current/Best:  166.23/ 571.91 GFLOPS | Progress: (252/800) | 107.98 s
+[Task 19/20]  Current/Best:  235.84/ 578.57 GFLOPS | Progress: (280/800) | 117.46 s
+[Task 19/20]  Current/Best:  172.30/ 578.57 GFLOPS | Progress: (308/800) | 128.02 s
+[Task 19/20]  Current/Best:   48.76/ 578.57 GFLOPS | Progress: (336/800) | 142.54 s
+[Task 19/20]  Current/Best:  282.61/ 578.57 GFLOPS | Progress: (364/800) | 152.33 s
+[Task 19/20]  Current/Best:  162.99/ 578.57 GFLOPS | Progress: (392/800) | 161.85 s
+[Task 19/20]  Current/Best:  182.12/ 578.57 GFLOPS | Progress: (420/800) | 172.08 s
+[Task 19/20]  Current/Best:   70.62/ 578.57 GFLOPS | Progress: (448/800) | 186.51 s
+[Task 19/20]  Current/Best:  384.27/ 578.57 GFLOPS | Progress: (476/800) | 196.28 s
+[Task 19/20]  Current/Best:  233.08/ 578.57 GFLOPS | Progress: (504/800) | 205.94 s
+[Task 19/20]  Current/Best:  176.36/ 578.57 GFLOPS | Progress: (532/800) | 217.16 s
+[Task 19/20]  Current/Best:   62.26/ 578.57 GFLOPS | Progress: (560/800) | 232.04 s
+[Task 19/20]  Current/Best:  161.51/ 578.57 GFLOPS | Progress: (588/800) | 241.80 s
+[Task 19/20]  Current/Best:  186.66/ 578.57 GFLOPS | Progress: (616/800) | 251.50 s
+[Task 19/20]  Current/Best:   81.98/ 578.57 GFLOPS | Progress: (644/800) | 263.58 s
+[Task 19/20]  Current/Best:   49.35/ 578.57 GFLOPS | Progress: (672/800) | 282.05 s
+[Task 19/20]  Current/Best:  207.57/ 578.57 GFLOPS | Progress: (700/800) | 291.99 s
+[Task 19/20]  Current/Best:  296.28/ 578.57 GFLOPS | Progress: (728/800) | 301.55 s
+[Task 19/20]  Current/Best:  146.87/ 578.57 GFLOPS | Progress: (756/800) | 313.70 s
+[Task 19/20]  Current/Best:   73.76/ 578.57 GFLOPS | Progress: (784/800) | 329.48 s
+[Task 19/20]  Current/Best:  202.26/ 578.57 GFLOPS | Progress: (800/800) | 335.10 s Done.
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 15.72 ms (0.01 ms)
+
+[Task 20/20]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/800) | 0.00 s
+[Task 20/20]  Current/Best:   53.17/  53.63 GFLOPS | Progress: (28/800) | 14.92 s
+[Task 20/20]  Current/Best:  167.50/ 201.63 GFLOPS | Progress: (56/800) | 26.80 s
+[Task 20/20]  Current/Best:  160.77/ 333.63 GFLOPS | Progress: (84/800) | 38.47 s
+[Task 20/20]  Current/Best:  127.11/ 333.63 GFLOPS | Progress: (112/800) | 51.60 s
+[Task 20/20]  Current/Best:   23.20/ 333.63 GFLOPS | Progress: (140/800) | 73.21 s
+[Task 20/20]  Current/Best:   95.55/ 333.63 GFLOPS | Progress: (168/800) | 85.56 s
+[Task 20/20]  Current/Best:  428.21/ 428.21 GFLOPS | Progress: (196/800) | 97.15 s
+[Task 20/20]  Current/Best:  168.51/ 431.72 GFLOPS | Progress: (224/800) | 108.98 s
+[Task 20/20]  Current/Best:  130.30/ 431.72 GFLOPS | Progress: (252/800) | 123.96 s
+[Task 20/20]  Current/Best:   75.35/ 431.72 GFLOPS | Progress: (280/800) | 145.19 s
+[Task 20/20]  Current/Best:  337.19/ 431.72 GFLOPS | Progress: (308/800) | 156.86 s
+[Task 20/20]  Current/Best:  259.85/ 560.74 GFLOPS | Progress: (336/800) | 168.33 s
+[Task 20/20]  Current/Best:  149.83/ 560.74 GFLOPS | Progress: (364/800) | 180.96 s
+[Task 20/20]  Current/Best:   55.05/ 560.74 GFLOPS | Progress: (392/800) | 201.94 s
+[Task 20/20]  Current/Best:   77.14/ 560.74 GFLOPS | Progress: (420/800) | 222.87 s
+[Task 20/20]  Current/Best:  415.64/ 560.74 GFLOPS | Progress: (448/800) | 234.18 s
+[Task 20/20]  Current/Best:  192.25/ 560.74 GFLOPS | Progress: (476/800) | 245.77 s
+[Task 20/20]  Current/Best:  154.62/ 560.74 GFLOPS | Progress: (504/800) | 258.78 s
+[Task 20/20]  Current/Best:   23.22/ 560.74 GFLOPS | Progress: (532/800) | 277.64 s
+[Task 20/20]  Current/Best:   92.04/ 560.74 GFLOPS | Progress: (560/800) | 290.34 s
+[Task 20/20]  Current/Best:  343.18/ 560.74 GFLOPS | Progress: (588/800) | 301.95 s
+[Task 20/20]  Current/Best:  122.94/ 560.74 GFLOPS | Progress: (616/800) | 313.84 s
+[Task 20/20]  Current/Best:   70.67/ 560.74 GFLOPS | Progress: (644/800) | 329.29 s
+[Task 20/20]  Current/Best:   42.48/ 560.74 GFLOPS | Progress: (672/800) | 351.82 s
+[Task 20/20]  Current/Best:  134.12/ 560.74 GFLOPS | Progress: (700/800) | 364.08 s
+[Task 20/20]  Current/Best:   78.55/ 560.74 GFLOPS | Progress: (728/800) | 375.69 s
+[Task 20/20]  Current/Best:  110.30/ 560.74 GFLOPS | Progress: (756/800) | 387.80 s
+[Task 20/20]  Current/Best:   16.47/ 560.74 GFLOPS | Progress: (784/800) | 407.93 s
+[Task 20/20]  Current/Best:   40.33/ 560.74 GFLOPS | Progress: (800/800) | 424.94 s Done.
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 15.34 ms (0.00 ms)
+network: mxnet, tuning time: 01:44:24, 6264.845775842667
+Compile...
+Evaluate inference time cost...
+Mean inference time (std dev): 15.37 ms (0.00 ms)

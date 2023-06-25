@@ -81,6 +81,7 @@ class GraphExecutorCodegen(object):
             Additional constant parameters.
         """
         self._codegen(func)
+        print(func)
         graph_json = self._get_graph_json()
         lowered_func = self._get_irmodule()
         param_names = self._list_params_name()

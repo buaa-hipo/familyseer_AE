@@ -2,7 +2,7 @@
 This tutorial contains an example of using FamilySeer and Ansor to train the model.
 
 # Requirements
-You may need to install the following package to run this example.
+You may need to pull the docker image to run this example.
 ```
 pip3 install mxnet==1.8.0 torch==1.8.0 torchvision==0.9.0 transformers==4.11.2 vit-pytorch==0.24.3 huggingface-hub==0.0.18 onnx==1.10.1 gluonnlp==0.10.0
 ```
@@ -15,14 +15,15 @@ mv gpt2-10.onnx onnx_models/
 
 # Example
 [guide-level-explanation]: #guide-level-explanation
-Run an example of FamilySeer:
+Run all figures of FamilySeer:
 ```
-python3 tune_network_gpu.py --model mobilenetv2_0.5 --gpu_num 2 --tune
+cd familyseer_AE/scripts
+./draw_figures.sh
 ```
-You can change `--gpu_num` number according to the GPUs you have.
+You can flush all results by yourself, please run the example on NVIDIA_V100
 
-Run an example of Ansor:
+Run an example of Ansor and Familyseer:
 ```
-python3 tune_network_gpu.py --model mobilenetv2_0.5  --tune --mode ansor
+./run_benchmark.sh
 ```
 If you want to try other models, change the `--model`. Supported model can be found in `./modellist`. You can also try you own model following the [TVM tutorials](https://tvm.apache.org/docs/how_to/compile_models/index.html).

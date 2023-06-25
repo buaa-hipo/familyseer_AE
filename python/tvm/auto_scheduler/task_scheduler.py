@@ -251,8 +251,23 @@ def make_family_group(
                 family_group[task.workload_key].append(idx)
             else:
                 family_group[task.workload_key].append(idx)
-        
-
+    '''    
+    family_group_new = {}
+    if family_group is not None:
+        for key,value in family_group.items():
+            if len(value) > 1:
+                new_value_a = []
+                new_value_b = []
+                for value_i in range(0,len(value),2):
+                    new_value_a.append(value[value_i])
+                for value_i in range(1,len(value),2):
+                    new_value_b.append(value[value_i])
+                family_group_new[key+"_a"] = new_value_a
+                family_group_new[key+"_b"] = new_value_b
+            else:
+                family_group_new[key] = value
+    family_group = family_group_new
+    '''
     if family_group is not None:
         for key,value in family_group.items():
             print("family group :", key, "---", value)
@@ -386,7 +401,7 @@ class TaskScheduler:
     def tune(
         self,
         tune_option,
-        search_policy="default",
+        search_policy="sketch.xgb.family_op",
         search_policy_params=None,
         adapative_training=False,
         per_task_early_stopping=None,
@@ -448,7 +463,8 @@ class TaskScheduler:
             self.tasks,
             search_policy,
         )
-
+        #self.family_group={'nn.softmax': [0], 'nn.dense': [1], 'nn.global': [2], 'nn.conv2d': [3, 5, 7, 9, 11, 13, 15, 17, 19, 21], 'nn.depthwiseconv2d': [4, 6, 8, 10, 12, 14, 16, 18, 20]}
+        #print(self.family_group)
         # make one search policy for one task
         self.search_policies = make_search_policies(
             search_policy,

@@ -317,7 +317,7 @@ class TrackerSession(object):
     def text_summary(self):
         """Get a text summary of the tracker."""
         data = self.summary()
-
+        print(data)
         total_ct = {}
 
         res = ""

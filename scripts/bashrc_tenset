@@ -1,0 +1,2 @@
+export TVM_PATH='/tenset'
+export PYTHONPATH=$TVM_PATH/python:$TVM_PATH/topi/python:${PYTHONPATH}
